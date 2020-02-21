@@ -1,0 +1,10 @@
+Petunjuk pengerjaan
+
+- File Driver merupakan file utama pada project yang terdapat fungsi main
+- Modifikasi (tambahkan dan hapus (jika dibutuhkan) class Orang, Mahasiswa, Dosen dan MahasiswaReport sehingga
+  ketika file driver dijalankan menghasikan output yang sudah ditentukan. Contoh output terdapat di bagian bawah
+  fungsi main (drive class)
+
+- Gunakan pemahaman anda terkait objek, class, encapsulasi, java access modifier, enheritance, keyword static dan final.
+
+Selmat mengerjakan
